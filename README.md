@@ -14,7 +14,7 @@ Technologies Used:
 
 How to Use:
   Clone this repository
-    https://github.com/yourusername/sql-projects.git
+   [ https://github.com/yourusername/sql-projects.git](https://github.com/Frederick-sudo/cs50-SQL.git)
 
   Open '.db' files using SQLite
     sqlite3.movies.db
